@@ -10,15 +10,29 @@ o Framework DJANGO REST FRAMEWORK que roda com base no DJANGO PROJECT escrito em
 ### Pré-requisitos
 
 Para conseguir rodar esta aplicação em sua máquina você vai precisar ter instalado algumas tecnologias.
-Como [Python 3](https://www.python.org/downloads/), [DJANGO PROJECT](https://www.djangoproject.com/start/) e o [DJANGO REST FRAMEWORL](https://www.django-rest-framework.org/)
+Como [Python 3](https://www.python.org/downloads/), [DJANGO PROJECT](https://www.djangoproject.com/start/) e o [DJANGO REST FRAMEWORK](https://www.django-rest-framework.org/)
 
 Siga os pasos descritos neste guia para instalar o DJANGO REST FRAMEWORK:
 [INICIANDO NO DJANGO REST FRAMEWORK](https://www.django-rest-framework.org/#quickstart)
 
+### Rodando a aplicação localmente
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/marcelo-s-correa/API-DIANGO-REST-ESTUDO>
+
+# Acesse a pasta da aplicação  no terminal/cmd
+$ cd API-DJANGO-REST-ESTUDO
+
+# Para rodar a aplicação execute o comando
+$ Python manage.py runserver
+
+# O servidor inciará na porta:8000 - acesse <http://localhost:8000/>
+```
 
 ### 🛠 Tecnologias
 
-As seguintes técnologias foram usadas na construção do projeto:
+Abaixo as tecnologias utilizadas:
 
 - [Python](https://www.python.org/)
 - [DJANGO PROJECT](https://www.djangoproject.com/)
