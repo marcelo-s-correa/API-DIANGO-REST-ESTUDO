@@ -2,6 +2,13 @@
 
 <img src = "https://stacksecrets.com/wp-content/uploads/2020/05/logo-min.png" alt = "DJANGO REST FRAMEWORK"/>
 
+![Badge](https://img.shields.io/github/stars/marcelo-s-correa/API-DIANGO-REST-ESTUDO?style=social)
+![Badge](https://img.shields.io/github/forks/marcelo-s-correa/API-DIANGO-REST-ESTUDO?style=social)
+![Badge](https://img.shields.io/badge/-Python-%2300768b)
+![Badge](https://img.shields.io/badge/-DJANGO-green)
+![Badge](https://img.shields.io/badge/-DJANGO--REST-red)
+
+
 ### Sobre o repositório
 
 Este repositório foi criado com a finalidade de aprender e colocar em pratica todos os conceitos de API REST / REST-FULL Utilizando
